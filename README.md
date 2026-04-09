@@ -1,109 +1,87 @@
-<h1 align="center">Hi 👋, I'm Danu Syarifudin</h1>
-<h3 align="center">Frontend Developer | Building modern web applications</h3>
+<h1 align="center">Hi there, I'm Muhammad Hilmi Mu'afa! 👋</h1>
+<h3 align="center">Frontend Developer | Building scalable & user-centric web applications</h3>
 
 <p align="center">
-Passionate about creating elegant, high-performance, and user-centered web applications using modern technologies.
+  <em>Transforming complex problems into elegant, high-performance, and intuitive digital experiences.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:[EMAIL KAMU]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/[USERNAME LINKEDIN KAMU]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/[USERNAME IG KAMU]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-I'm a frontend developer who enjoys building modern and responsive web applications.  
-My journey in tech started with curiosity about how websites work, which evolved into building real digital products.
+My journey in tech started with a simple curiosity about how the web works, which quickly evolved into a passion for building robust digital products. I care deeply about the intersection of design and engineering.
 
-I focus on:
-
-- Clean and maintainable code  
-- Smooth UI interactions and animations  
-- Thoughtful and user-centered interfaces  
-
-For me, a great website is not only about how it looks — but also how it feels to the user.
+- 🔭 **Currently working on:** [Sebutkan proyek/pekerjaan saat ini, misal: a modern e-commerce platform]
+- 🌱 **Currently learning:** [Sebutkan yang sedang dipelajari, misal: Next.js 14, TypeScript, AI Integration]
+- 💡 **Focus:** Clean code, smooth animations, and accessible interfaces.
+- 💬 **Ask me about:** Frontend development, UI/UX implementation, and web performance.
 
 ---
 
-## 🚀 Current Focus
+## 🛠️ Tech Stack & Tools
 
-- Building modern web applications using **React & Next.js**
-- Expanding knowledge in **Fullstack Development**
-- Exploring **AI integration in web applications**
-- Creating scalable and performant frontend systems
-
----
-
-## 🌐 Connect With Me
-
+### Frontend & Core
 <p align="left">
-<a href="https://instagram.com/syfdinn._" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
 
-<a href="mailto:danusyarifudin1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+### Infrastructure & Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Featured Projects
 
-### Core
+| Project Name | Description | Tech Stack | Link |
+|:---|:---|:---|:---|
+| **[Nama Project 1]** | Personal developer portfolio with modern UI/UX | Next.js, Tailwind | [🔗 Live Demo](#) |
+| **[Nama Project 2]** | Interactive admin dashboard for data visualization | React, Recharts | [🔗 Repo](#) |
+| **[Nama Project 3]** | AI-powered automation system for messaging | Node.js, OpenAI | [🔗 Repo](#) |
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+*(Note: Click the links above to see the projects in action!)*
 
 ---
 
-# 📂 Featured Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| Portfolio Website | Personal developer portfolio website | Next.js |
-| React Dashboard | Interactive admin dashboard UI | React |
-| AI WhatsApp Bot | AI automation system for messaging | Node.js |
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Renhakudo&theme=dark&show_icons=true&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Renhakudo&theme=dark&hide_border=true" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME GITHUB KAMU]&theme=dark&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME GITHUB KAMU]&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renhakudo&theme=dark&hide_border=true&layout=compact"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME GITHUB KAMU]&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
-⭐ From [Danu Syarifudin](https://github.com/Renhakudo)
+<p align="center">
+  <em>Thanks for dropping by! Feel free to reach out if you want to collaborate or just say hi.</em>
+</p>
