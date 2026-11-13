@@ -74,17 +74,6 @@ My journey in tech started with a simple curiosity about how the web works, whic
 
 ---
 
-## 🚀 Featured Projects
-
-| Project Name | Description | Tech Stack | Link |
-|:---|:---|:---|:---|
-| **[Nama Project 1]** | Personal developer portfolio with modern UI/UX | Next.js, Tailwind | [🔗 Live Demo](#) |
-| **[Nama Project 2]** | Interactive admin dashboard for data visualization | React, Recharts | [🔗 Repo](#) |
-| **[Nama Project 3]** | AI-powered automation system for messaging | Node.js, OpenAI | [🔗 Repo](#) |
-
-*(Note: Click the links above to see the projects in action!)*
-
----
 
 ## 📊 GitHub Analytics
 
