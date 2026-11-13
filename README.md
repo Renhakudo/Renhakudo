@@ -23,8 +23,6 @@
 
 My journey in tech started with a simple curiosity about how the web works, which quickly evolved into a passion for building robust digital products. I care deeply about the intersection of design and engineering.
 
-- 🔭 **Currently working on:** [Sebutkan proyek/pekerjaan saat ini, misal: a modern e-commerce platform]
-- 🌱 **Currently learning:** [Sebutkan yang sedang dipelajari, misal: Next.js 14, TypeScript, AI Integration]
 - 💡 **Focus:** Clean code, smooth animations, and accessible interfaces.
 - 💬 **Ask me about:** Frontend development, UI/UX implementation, and web performance.
 
