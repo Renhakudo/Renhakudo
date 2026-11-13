@@ -76,13 +76,9 @@ My journey in tech started with a simple curiosity about how the web works, whic
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renhakudo&theme=dark&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renhakudo&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renhakudo&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 <p align="center">
